@@ -1,15 +1,19 @@
 ---
+ID: 27
 post_title: WordPress GitHub Sync
 author: sah
+post_date: 2016-10-12 10:08:36
+post_excerpt: ""
 layout: post
-post_excerpt: "For a community project like Publishing XML, WordPress GitHub Sync provides an easy way to collaboratively maintain a website in GitHub and publish it with WordPress."
+permalink: >
+  http://publishingxml.org/2016/10/12/wordpress-github-sync/
 published: true
 ---
 WordPress is a great package for hosting a website, but out-of-the-box it has limitations for use as a community project hub. One of those limitations occurred to me while I was setting all this up last night: _What if I want people to contribute to the website as to the project in general, by forking a github repository and making pull requests? It would really be nice to be able to sync a WordPress site with a github repository._
 
-It turns out that WordPress has a plugin for that: **WordPress GitHub Sync** (<https://wordpress.org/plugins/wp-github-sync/>). Very easy to set up, took about 15 minutes, including learning how to do it from the documentation.
+It turns out that WordPress has a plugin for that: **WordPress GitHub Sync** (). Very easy to set up, took about 15 minutes, including learning how to do it from the documentation.
 
-So now, [publishingxml.org](http://publishingxml.org) (this site) is syncing its posts and pages with the publishingxml.org github repository (<https://github.com/BlackEarth/publishingxml_org>). Anyone can fork that repository and submit pull requests; accepted pull requests will be published to the website. Very cool.
+So now, [publishingxml.org](http://publishingxml.org) (this site) is syncing its posts and pages with the publishingxml.org github repository (). Anyone can fork that repository and submit pull requests; accepted pull requests will be published to the website. Very cool.
 
 (In fact, I wrote this post on my desktop and pushed it to github, and voila, it was published.) 
 
