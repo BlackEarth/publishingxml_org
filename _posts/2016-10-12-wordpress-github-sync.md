@@ -20,3 +20,5 @@ So now, [publishingxml.org](http://publishingxml.org) (this site) is syncing its
 At first I set up the sync with the main publishing-xml repository, which does make some sense: After all, [publishingxml.org](http://publishingxml.org) is going to hold the documentation for the Publishing XML project, and shouldn't that documentation also be in the main repository? Yes, probably, but the website is going to hold a lot more than documentation, and we don’t necessarily want everything that we do on the website to be in the main repository (such as this post). So, a separate repository, making the website a separate subproject. (We’re already up to three repositories, and I haven't even invited other contributors yet.)
 
 The documentation question is bugging me, though. What makes sense is to write the documentation for Publishing XML in the main [publishing-xml repository](https://github.com/BlackEarth/publishing-xml), and then to set up some kind of process by which to update the documentation on the website. Such as, whenever making a release of publishing-xml itself, push the updated documentation to the website.
+
+_[wpghs]_
