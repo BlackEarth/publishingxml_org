@@ -26,3 +26,5 @@ To install the schemas, download / clone this repository to an appropriate locat
 If you would like to contribute, just fork the repository and start submitting pull requests. You also might want to read the community contract at some point—the publishing-xml project follows the protocol defined in the “Collective Code Construction Contract” (C4), as defined at <a href="https://rfc.zeromq.org/spec:42/C4/">https://rfc.zeromq.org/spec:42/C4/</a>.
 
 The publishing-xml project and code base is licensed under the Mozilla Public License, v. 2 (MPL2), as defined in the LICENSE file. Each contributor owns his or her respective contributions and licenses it under the terms of the MPL2.
+
+_[wpghs]_

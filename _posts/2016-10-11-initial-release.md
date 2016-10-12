@@ -10,3 +10,5 @@ permalink: >
 published: true
 ---
 The first public release of the Publishing XML schemas can be found in the github repository: <a href="https://github.com/BlackEarth/publishing-xml">https://github.com/BlackEarth/publishing-xml</a>
+
+_[wpghs]_
