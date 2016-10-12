@@ -15,7 +15,7 @@ It turns out that WordPress has a plugin for that: **WordPress GitHub Sync** ().
 
 So now, [publishingxml.org](http://publishingxml.org) (this site) is syncing its posts and pages with the publishingxml.org github repository (). Anyone can fork that repository and submit pull requests; accepted pull requests will be published to the website. Very cool.
 
-(In fact, I wrote this post on my desktop and pushed it to github, and voila, it was published.) 
+(In fact, I wrote this post on my desktop and pushed it to github, and voila, it was published.)
 
 At first I set up the sync with the main publishing-xml repository, which does make some sense: After all, [publishingxml.org](http://publishingxml.org) is going to hold the documentation for the Publishing XML project, and shouldn't that documentation also be in the main repository? Yes, probably, but the website is going to hold a lot more than documentation, and we don’t necessarily want everything that we do on the website to be in the main repository (such as this post). So, a separate repository, making the website a separate subproject. (We’re already up to three repositories, and I haven't even invited other contributors yet.)
 
